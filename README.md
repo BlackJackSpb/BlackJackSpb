@@ -14,8 +14,13 @@ Languages: Python
 Frameworks:
 Libraries:
 Tools: VS Code, GitHub
-Deployment: 
-Other: 
+
+- **Languages:** Python
+- **Frameworks:** 
+- **Libraries:** 
+- **Tools:** VS Code, GitHub
+- **Deployment:** 
+- **Other:** 
 
 ### Socials
 
