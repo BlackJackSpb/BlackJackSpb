@@ -26,3 +26,7 @@ https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&l
 <b>Codewars</b>
 
 ![Codewars](https://github.r2v.ch/codewars?user=BlackJackSpb&top_languages=true)
+
+<b>Anurag's github stats<b>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlackJackSpb&show_icons=true)](https://github.com/BlackJackSpb)
