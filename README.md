@@ -4,14 +4,20 @@ Beginner Python developer. I am currently studying at the Hexlet online school.
 * 🌍  I'm based in Sankt-Peterburg
 * ✉️  You can contact me at [rystzov1995@yandex.ru](mailto:rystzov1995@yandex.ru)
 
-### My tech stack
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+## Programming languages and Frameworks
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="90" height="25" alt="Python" /><a>
 
-### Socials
+## IDEs/Editors
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logoColor=white" width="70" height="25" alt="VS Code" /><a>
 
-<p align="left"> <a href="https://www.github.com/BlackJackSpb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## Operating System
+<a href="https://www.microsoft.com/ru-ru/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" width="90" height="25" alt="Linux" /><a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="90" height="25" alt="Linux" /><a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="90" height="25" alt="Linux" /><a>
 
-<p align="left"> <a href="https://t.me/BlackJackLen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+## Socials
+<a href="https://www.github.com/BlackJackSpb" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="25" alt="Linux" /><a>
+<a href="https://t.me/BlackJackLen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90" height="25" alt="Linux" /><a>
 
 ## Top Repositories
 
