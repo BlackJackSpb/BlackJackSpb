@@ -21,7 +21,7 @@ Beginner Python developer. I am currently studying at the Hexlet online school.
 
 ## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/BlackJackSpb/python-project-49" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackJackSpb&repo=python-project-49&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/BlackJackSpb/Brain_games" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackJackSpb&repo=Brain_games&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/BlackJackSpb/python-project-50" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackJackSpb&repo=python-project-50&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
